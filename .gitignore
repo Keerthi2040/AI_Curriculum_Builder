@@ -1,0 +1,19 @@
+# Ignore node_modules in both frontend and backend
+client/node_modules/
+server/node_modules/
+
+# Build folders
+client/build/
+server/dist/
+
+# Environment files
+client/.env
+server/.env
+.env
+
+# Logs
+*.log
+
+# IDE configs
+.vscode/
+.idea/
